@@ -12,7 +12,7 @@ namespace DynamoDBSandbox
     {
         static void Main(string[] args)
         {
-            var credentials = new BasicAWSCredentials("AKIASHNHXRBWMDNXDZHG", "Su3g3F0v3+GJiR6U40eav0POXYSjds6DANsxM0Hg");
+            var credentials = new BasicAWSCredentials("some-access-key", "some-secret-key");
             var client = new AmazonDynamoDBClient(credentials, RegionEndpoint.USEast2);
 
             PopulateQueryMessages.Run(client);
