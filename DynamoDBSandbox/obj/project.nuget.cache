@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UT2bIUvqg/ZZE5TQthvAyExhAYLjuW++oJ/zAwNKoCw3x5AYUdxofAr/tVg0JnpwooToInk3G42pz+jPxkulmw==",
+  "success": true,
+  "projectFilePath": "C:\\code\\DynamoDBSandbox\\DynamoDBSandbox\\DynamoDBSandbox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alex.addams\\.nuget\\packages\\awssdk.core\\3.7.0.14\\awssdk.core.3.7.0.14.nupkg.sha512",
+    "C:\\Users\\alex.addams\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0.14\\awssdk.dynamodbv2.3.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
